@@ -1,0 +1,12 @@
+charset utf-8 para poder usar caracteres especiais e acentos
+viewport é para não dar zoom nem nada. ver o site como ele é. para sites responsivos
+ie edge não é obrigatória, mas é de prache da microsoft no visual code studio
+title para o título do site que fica lá em cima
+html funciona com tags
+meta é info sobre a página
+
+xxx
+
+css funciona com seletores
+para linkar css e index precisa usar a tag de link e usar o seu código de css na parte de href
+	

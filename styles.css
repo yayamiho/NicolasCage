@@ -1,0 +1,27 @@
+body{
+    color: blue;
+    font-family: 'Lemonada', cursive;
+    margin: 0;
+}
+h1{
+    color: red;
+    font-size: 40mm;
+    text-shadow: 1px 1px 20px blueviolet;
+    text-decoration-line: underline;
+    margin: 0;
+    font-family: 'Lemonada', cursive;
+    text-align: center;
+}
+div{
+    padding: 50px;
+    background-color: aqua;
+    margin: 20px
+}
+.destaque{
+    font-weight: bold;
+    text-decoration: underline
+}
+#imagem-maravilhosa{
+    border-bottom-color: rgb(230, 65, 166);
+    box-shadow: 3px 3px 15px black;
+}
